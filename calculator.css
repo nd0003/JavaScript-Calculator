@@ -2,11 +2,10 @@
   font-family: "Fredoka", sans-serif !important;
 }
 
-/* 
-This code below is from
-https://github.com/javascriptacademy-stash/calculator/tree/Final.
-I have changed some parts of it.
-*/
+footer {
+  text-align: center;
+  margin-top: 75px;
+}
 
 .container {
   max-width: 400px;
